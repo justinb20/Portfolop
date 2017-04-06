@@ -1,0 +1,32 @@
+body {
+    text-align: left;
+    background-color: bisque;
+}
+
+h1 {
+    font-family: cursive;
+    text-decoration: underline;
+    font-size: 50px;
+    color: purple;
+}
+
+.squash {
+    color: rgb(255, 60, 100);
+
+}
+
+h3 {
+    font-family: sans-serif;
+    color: black;
+}
+
+img {
+    border-radius: 20px;
+
+}
+
+.Home {
+    text-align: center;
+    font-size: 100px;
+
+}
